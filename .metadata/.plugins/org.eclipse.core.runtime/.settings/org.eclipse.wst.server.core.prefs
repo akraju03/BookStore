@@ -1,0 +1,4 @@
+#Sun Nov 26 14:49:48 GMT+05:30 2017
+module-start-timeout=300000
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Apache Tomcat v6.0" location\="/Users/anil.n1/Downloads/apache-tomcat-8.5.23" name\="Apache Tomcat v6.0" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.60" timestamp\="0"/>\n  <runtime id\="Tomcat 9" location\="/Users/anil.n1/Downloads/apache-tomcat-9.0.1" name\="Tomcat 9" runtime-type-id\="org.eclipse.jst.server.tomcat.runtime.60" timestamp\="0"/>\n</runtimes>\n
+eclipse.preferences.version=1

@@ -1,0 +1,2 @@
+INDEX VERSION 1.121+/Users/anil.n1/Documents/workspace_gal/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+342453031.index

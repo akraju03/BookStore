@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [27/Nov/2017:11:28:53 +0530] "GET /Anil/publisher.jsp?publisherId=1 HTTP/1.1" 200 3010
+0:0:0:0:0:0:0:1 - - [27/Nov/2017:11:28:53 +0530] "GET /Anil/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [27/Nov/2017:11:29:04 +0530] "GET /Anil/authors.jsp HTTP/1.1" 200 2346
+0:0:0:0:0:0:0:1 - - [27/Nov/2017:11:29:05 +0530] "GET /Anil/author.jsp?authorId=1 HTTP/1.1" 200 2817
